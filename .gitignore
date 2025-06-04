@@ -24,3 +24,6 @@ dist-ssr
 *.sw?s
 
 .env
+
+# IDE jetbranins
+.idea
